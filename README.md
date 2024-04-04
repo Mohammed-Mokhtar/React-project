@@ -1,4 +1,4 @@
-# Eat-n-Split
+# 1-Eat-n-Split
 
 Welcome to Eat-n-Split, a convenient web app designed to simplify splitting bills with your friends!
 
